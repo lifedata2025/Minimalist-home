@@ -1,36 +1,50 @@
-### 1. Sleep & Rest (睡眠与休息)
+# 1. 睡眠与休息
 
-* **Mattress + Pillow + Bedding Set (1 set):** You don't even need a bed frame; a high-quality mattress is enough to guarantee good sleep. One set for washing and changing is plenty—just dry it the same day you wash it.
-* **All-Season Comforter (1):** Choose a down or climate-control comforter of medium thickness, and adjust your pajamas according to the season.
+- 床垫 + 枕头 + 四件套（1套）： 甚至可以不需要床架，高质量的床垫保证睡眠即可。一套换洗即可，洗完当天烘干或晾干。
 
-### 2. Wardrobe (Capsule Wardrobe) (个人穿戴/胶囊衣橱)
+- 四季被（1条）： 选择厚度适中的羽绒被或控温被，根据季节调整睡衣厚度。
 
-* **Basic Tops (5-7 pieces):** Solid-colored T-shirts, shirts, or hoodies, mainly in black, white, gray, and navy for easy mixing and matching.
-* **Bottoms (3 pairs):** One pair of jeans, one pair of casual trousers, and one pair of athletic shorts.
-* **Outerwear (2-3 pieces):** To handle different seasons (e.g., one jacket and one down jacket/parka).
-* **Footwear (3 pairs):** Sneakers (for daily/sports), dress shoes or loafers (for work/formal occasions), and slippers.
-* **Underwear + Socks:** Enough to last a week's laundry cycle.
 
-### 3. Personal Care & Grooming (洗漱与个护)
+# 2. 个人穿戴（胶囊衣橱）
 
-* **All-in-One Wash:** Shampoo and body wash (or a high-quality bar of soap to handle everything).
-* **Cleanser + Moisturizer:** The most basic skincare routine.
-* **Toothbrush + Toothpaste + Towel (1).**
-* **Razor / Hair Clippers:** To keep your face and hair neat.
+- 基础款上衣（5-7件）： 纯色T恤、衬衫或卫衣，颜色以黑白灰蓝为主，方便任意搭配。
 
-### 4. Cooking & Dining (烹饪与饮食)
+- 裤装（3条）： 牛仔裤、休闲裤、运动短裤各一。
 
-* **Multi-functional Electric Cooker / Rice Cooker:** Can cook rice, stew soup, and stir-fry.
-* **Tableware (1 set):** One large bowl, one plate, one pair of chopsticks, and one spoon.
-* **Tumbler / Mug (1):** An insulated tumbler or a mug that works for both water and coffee.
+- 外套（2-3件）： 应对不同季节（如一件夹克、一件羽绒服）。
 
-### 5. Digital & Work (数字化与工作)
+- 鞋类（3双）： 运动鞋（日常/运动）、正装皮鞋/休闲鞋（工作/正式场合）、拖鞋。
 
-* **Smartphone + Charging Cable:** The absolute core of modern life, replacing most physical items like wallets, keys, books, and TVs.
-* **Laptop / Tablet:** For work and deep entertainment.
+- 内衣裤 + 袜子： 满足一周换洗的量。
 
-### 6. Cleaning & Storage (清洁与收纳)
+# 3. 洗漱与个护
 
-* **Cordless Vacuum or Mop:** To keep the floors clean.
-* **Multi-purpose Cleaner (e.g., baking soda or alcohol spray):** Takes care of the kitchen, bathroom, and countertops.
-* **All-purpose Backpack (1):** Meets the needs of both daily commuting and short-term travel.
+- 多效合一洗护： 洗发水、沐浴露（或者一块高品质香皂搞定全身）。
+
+- 洁面 + 保湿乳： 最基础的皮肤护理。
+
+- 牙刷 + 牙膏 + 毛巾（1条）。
+
+- 剃须刀 / 理发器： 保持面部整洁。
+
+# 4. 烹饪与饮食
+
+- 多功能电锅/电饭煲： 能煮饭、能炖汤、能炒菜。
+
+- 餐具（1套）： 一个大碗、一个盘子、一双筷子、一把勺子。
+
+- 水杯（1个）： 保温杯或马克杯，既喝水也喝咖啡。
+
+# 5. 数字化与工作
+
+- 手机 + 充电线： 现代生活的绝对核心，替代了钱包、钥匙、书本、电视等绝大多数实体物品。
+
+- 电脑/平板： 用于工作和深度娱乐。
+
+# 6. 清洁与收纳
+
+- 无线吸尘器或拖把： 保持地面干净。
+
+- 多功能清洁剂（如小苏打或酒精喷雾）： 搞定厨房、卫生间和桌面。
+
+- 全功能背包（1个）： 满足日常通勤和短期出行。
